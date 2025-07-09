@@ -1,0 +1,73 @@
+
+.parend{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    
+     
+    
+}
+
+
+.button{
+    color: brown ;
+}
+
+.olmacha{
+    background-color: #FC004A;
+}
+
+
+.telfon{
+    display: flex;
+    gap: 20px;
+   
+}
+
+.mol{
+    display: flex;
+}
+
+.tok{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.olmacha{
+    border-radius: 50px;
+    
+}
+
+.batn{
+    display: flex;
+}
+
+.mshina{
+    width: 100%;
+     
+} 
+
+
+.pp{
+    width: 235px;
+    height: 391px;
+
+    box-shadow: 0px 4px 6px -4px #0000001A;
+
+}
+
+.pp:hover{
+    box-shadow: 0px 10px 15px -3px #0000001A;
+}
+
+
+.pp img{
+    width: 100%;
+}
+
+.ff{
+    text-align: right;
+}
+
+
